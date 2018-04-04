@@ -26,3 +26,9 @@ Para executar o projeto use:
  - `cordova run browser` - para rodar na plataforma browser
  - `cordova run android`  - para rodar na plataforma android no emulador
  - `cordova run android --device`  -  para rodar na plataforma android no device
+
+## Buildar o projeto
+
+### Android
+
+ - use `cordova build android`
